@@ -14,10 +14,3 @@
    ```bash
       alembic upgrade heads
    ```
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/fastapi-sqlalchemy-example.git
-   cd fastapi-sqlalchemy-example
